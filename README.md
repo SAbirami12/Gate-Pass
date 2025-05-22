@@ -22,7 +22,7 @@
 - Authentication: Laravel’s built-in authentication system
 ----
 **💻 Installation**
-- To run this project locally, follow these steps:
+--To run this project locally, follow these steps:
 **1. Clone the repository:**
 - git clone https://github.com/SAbirami12/Gate-Pass.git
 **2. Navigate to the project folder:**
