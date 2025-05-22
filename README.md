@@ -1,6 +1,6 @@
 ##  Gate Pass Request System
 **🚀 Project Overview**
-The Gate Pass Request System is a secure web application designed for managing and processing gate pass requests. 
+- The Gate Pass Request System is a secure web application designed for managing and processing gate pass requests. 
 - It allows users to request a gate pass, which can then be approved or denied by authorized personnel .
 - The system uses PHP and Laravel for backend development, with a user-friendly interface.
 ----
@@ -22,7 +22,7 @@ The Gate Pass Request System is a secure web application designed for managing a
 - Authentication: Laravel’s built-in authentication system
 ----
 **💻 Installation**
-To run this project locally, follow these steps:
+- To run this project locally, follow these steps:
 **1. Clone the repository:**
 - git clone https://github.com/SAbirami12/Gate-Pass.git
 **2. Navigate to the project folder:**
