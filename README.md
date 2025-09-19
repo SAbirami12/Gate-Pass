@@ -45,8 +45,6 @@ Visit http://localhost:8000 in your browser to see the project in action.
 
 <img width="1366" height="723" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7b98ca0f-3e09-41b7-bc6a-269fe3d815e3" />
 
-<img width="1366" height="723" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8b8e9e5c-230a-45a1-b12b-c002b41f0f19" />
-
 -----
 
 ## 🙋‍♀️ About the Developer
