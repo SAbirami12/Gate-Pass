@@ -45,12 +45,6 @@ Visit http://localhost:8000 in your browser to see the project in action.
 
 <img width="1366" height="723" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7b98ca0f-3e09-41b7-bc6a-269fe3d815e3" />
 
-<img width="1366" height="722" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/9f8fcec9-8759-40c6-8d9e-7fd114888ad6" />
-
-<img width="1366" height="721" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/85d8ac9c-97db-4d1b-8d0d-a0e4e5ccf8e8" />
-
-<img width="1366" height="727" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/be6730c1-4918-4453-bbc9-24d93f870c0c" />
-
 <img width="1366" height="723" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8b8e9e5c-230a-45a1-b12b-c002b41f0f19" />
 
 -----
